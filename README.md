@@ -1,8 +1,8 @@
 ### Howdy, I'm Nate 👋
 
-I help developers by building tools they need meet their user's need.  
+###### I help developers by building tools they need meet their user's need.  
 
-I work at Sonic Healthcare and support our information systems as a technical analyst.
+###### I work at Sonic Healthcare and support our information systems as a technical analyst.
 
 <!--
 **natebuch/natebuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
