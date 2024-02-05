@@ -1,6 +1,6 @@
 ### Howdy, I'm Nate.
 
-I help developers by building tools they need meet their user's need.  
+I help developers by building tools they need meet their user's goals.  
 
 I work at Sonic Healthcare and support our information systems as a technical analyst.
 
